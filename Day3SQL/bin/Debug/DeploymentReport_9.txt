@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Transactions]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The type for column UserId in table [dbo].[Transactions] is currently  TEXT NOT NULL but is being changed to  INT NOT
+         NULL. There is no implicit or explicit conversion.
+
+** User actions
+     Rename
+       [dbo].[Transactions].[UserId] (Column)
+     Table rebuild
+       [dbo].[Transactions] (Table)
+
+** Supporting actions
+
+The type for column UserId in table [dbo].[Transactions] is currently  TEXT NOT NULL but is being changed to  INT NOT NULL. There is no implicit or explicit conversion.
+

@@ -1,0 +1,5 @@
+Potwierdzenie transakcji z konta numer: 2
+Transakcja numer: 27
+Kwota: 1 234,00 zł
+Data Transakcji: 12.07.2019 16:36:40
+Wplata. asdsa

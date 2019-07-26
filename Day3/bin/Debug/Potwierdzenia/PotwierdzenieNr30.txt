@@ -1,0 +1,5 @@
+Potwierdzenie transakcji z konta numer: 2
+Transakcja numer: 30
+Kwota: -123,00 zł
+Data Transakcji: 15.07.2019 09:07:29
+Przelew wychodzacy na konto numer: 16 Opis: dasaf

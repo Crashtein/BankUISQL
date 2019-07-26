@@ -1,0 +1,5 @@
+Potwierdzenie transakcji z konta numer: 2
+Transakcja numer: 28
+Kwota: -12 342,00 zł
+Data Transakcji: 12.07.2019 16:45:01
+Przelew wychodzacy na konto numer: 16 Opis: dasd
